@@ -10,12 +10,11 @@ asheldon
 
 # Why
 
-<explain why you made this module>
+Tutorial for Carsten Wulff's skywater design flow
 
 # How
 
-<explain short how you made this module>
-
+Follow tutorial at http://analogicus.com/aic2025/2025/01/01/Sky130nm-tutorial.html
 
 # What
 
