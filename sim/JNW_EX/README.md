@@ -14,7 +14,7 @@ Check transient operation
 | | | |<a href='results/tran_Sch_mc.html'>Sch_3std</a>|17.750 | 20.505 | 23.260 | |
 | | | |<a href='results/tran_Lay_typical.html'>Lay_typ</a>| | 20.625 |  | |
 | | | |<a href='results/tran_Lay_etc.html'>Lay_etc</a>|20.510 | 20.634 | 20.755 | |
-| | | |<a href='results/tran_Lay_mc.html'>Lay_3std</a>|18.025 | 20.724 | 23.422 | |
+| | | |<a href='results/tran_Lay_mc.html'>Lay_3std</a>|18.035 | 20.770 | 23.504 | |
 |**Gate-Source voltage**|**vgs\_m1** || **Spec**  | **0.300** | **0.600** | **0.700** | **V** |
 | | | |<a href='results/tran_Sch_typical.html'>Sch_typ</a>| | 0.686 |  | |
 | | | |<a href='results/tran_Sch_etc.html'>Sch_etc</a>|0.604 | 0.685 | <span style='color:red'>**0.758**</span> | |
