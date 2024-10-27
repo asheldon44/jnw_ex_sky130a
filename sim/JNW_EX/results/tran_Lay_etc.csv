@@ -1,9 +1,9 @@
 ,ibns_20u,vgs_m1,name,type,time,OK
-0,20.51042,0.7579687,tran_LayGtKfsTlVt,Lay,Sun Oct 27 13:16:50 2024,False
-1,20.7034,0.685388,tran_LayGtKsfTlVt,Lay,Sun Oct 27 13:16:49 2024,True
-2,20.68141,0.6953347,tran_LayGtKffTlVt,Lay,Sun Oct 27 13:16:48 2024,True
-3,20.53269,0.7480513,tran_LayGtKssTlVt,Lay,Sun Oct 27 13:16:47 2024,False
-4,20.56713,0.6838284,tran_LayGtKfsThVt,Lay,Sun Oct 27 13:16:45 2024,True
-5,20.75519,0.6037314,tran_LayGtKsfThVt,Lay,Sun Oct 27 13:16:44 2024,True
-6,20.73626,0.61373,tran_LayGtKffThVt,Lay,Sun Oct 27 13:16:43 2024,True
-7,20.58731,0.6738161,tran_LayGtKssThVt,Lay,Sun Oct 27 13:16:42 2024,True
+0,20.37397,0.7583013,tran_LayGtKfsTlVt,Lay,Sun Oct 27 13:29:38 2024,False
+1,20.5851,0.6857153,tran_LayGtKsfTlVt,Lay,Sun Oct 27 13:29:36 2024,True
+2,20.55776,0.6956629,tran_LayGtKffTlVt,Lay,Sun Oct 27 13:29:35 2024,True
+3,20.396990000000002,0.748383,tran_LayGtKssTlVt,Lay,Sun Oct 27 13:29:34 2024,False
+4,20.64826,0.6841606,tran_LayGtKfsThVt,Lay,Sun Oct 27 13:29:33 2024,True
+5,20.84374,0.6040593,tran_LayGtKsfThVt,Lay,Sun Oct 27 13:29:32 2024,True
+6,20.82674,0.6140587,tran_LayGtKffThVt,Lay,Sun Oct 27 13:29:30 2024,True
+7,20.67225,0.6741475,tran_LayGtKssThVt,Lay,Sun Oct 27 13:29:29 2024,True
